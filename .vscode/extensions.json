@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "analytic-signal.preview-pdf",
+        "mhutchie.git-graph",
+        "github.vscode-pull-request-github",
+        "ms-ceintl.vscode-language-pack-ja",
+        "ms-vsliveshare.vsliveshare",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "davidanson.vscode-markdownlint",
+        "shardulm94.trailing-spaces"
+    ]
+}
