@@ -1,6 +1,6 @@
 # terms-of-nitechphoto
 
-[名工大写真映像部の部内規約(部則)](https://github.com/nitechphoto/terms-of-nitechphoto/blob/main/TermsOfNitechphoto.pdf)です。pdfファイルをご覧ください。(編集はtexファイル)
+[名工大写真映像部の部内規約(部則)](https://github.com/nitechphoto/terms-of-nitechphoto/blob/main/TermsOfNitechphoto.pdf)です。pdfファイルをご覧ください。(編集はTeXファイル)
 
 ([ダウンロード](https://github.com/nitechphoto/terms-of-nitechphoto/raw/main/TermsOfNitechphoto.pdf))
 
@@ -17,8 +17,8 @@
 - `latexindent -w -l TermsOfNitechphoto.tex`を実行する。
 
 ## 改定
-- [部則](https://github.com/nitechphoto/terms-of-nitechphoto/blob/main/TermsOfNitechphoto.pdf)の「第 9 条 改定」を参照。
-- branch作成やforkを行ってPull Requestを作成する。ただしこの際に「表紙」と「第 11 章 制定」の日付については承認が降りた日とするので、`nn`で埋めておけば良い。
+- [部則](https://github.com/nitechphoto/terms-of-nitechphoto/blob/main/TermsOfNitechphoto.pdf)の「第 9 章 改定」を参照。
+- branch作成やforkを行ってPull Requestを作成する。ただしこの際に「表紙」の最終改定の日付と「第 11 章 その他」の改定の日付については承認が降りた日とするので、`nn`で埋めておけば良い。
 - 承認が降りたら、日付を変更し、マージを行う。
 
 ## ライセンス
